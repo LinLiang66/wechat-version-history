@@ -7,9 +7,9 @@
 软件架构说明
 
 
-#### 安装教程
+#### 安装包集合
 
-1.  xxxx
+1.  [微信3.9.8.25](https://gitee.com/QQ927919732/wechat-version-history/edit/master/README.md)
 2.  xxxx
 3.  xxxx
 
