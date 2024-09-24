@@ -39,6 +39,14 @@
 
 15.  [微信 Windows 3.9.9.43 版](http://xiaorouy.cn/download/WeChat3.9.9.43.exe)
 
+16.  [微信 Windows 3.9.10.16 版](http://xiaorouy.cn/download/WeChat3.9.10.16.exe)
+
+17.  [微信 Windows 3.9.11.18 版](http://xiaorouy.cn/download/WeChat3.9.11.18.exe)
+
+18.  [微信 Windows 3.9.9.34 版](http://xiaorouy.cn/download/WeChat3.9.9.34.exe)
+
+19.  [微信 Windows 3.9.11.19 版](http://xiaorouy.cn/download/WeChat3.9.11.19.exe)
+
 
 
 #### 安装包说明
